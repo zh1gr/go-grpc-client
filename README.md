@@ -1,4 +1,4 @@
-# go-grpc-domain
+# go-grpc-client
 
 ---
 
