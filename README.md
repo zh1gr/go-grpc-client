@@ -2,7 +2,7 @@
 
 ---
 
-Golang example project represent gRPC server.
+Golang example project represent gRPC client.
 
 [Golang Server](https://github.com/zh1gr/go-grpc-server)<br>
 [Golang Domain](https://github.com/zh1gr/go-grpc-domain)
